@@ -13,8 +13,8 @@
   <main>
     <h1>
       I nostri primi passi in Laravel!!
-
     </h1>
+    <img src="https://d226lax1qjow5r.cloudfront.net/blog/blogposts/laravel-9-strap-in/laravel-9.png" alt="laravel nove">
   </main>
 </body>
 </html>
