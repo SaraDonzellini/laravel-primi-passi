@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <a href="/secondpage">Seconda pagina</a>
+    <a href="{{route('secondpage')}}">Seconda pagina</a>
   </header>
   <main>
     <h1>
